@@ -1,0 +1,38 @@
+h1 {
+	font-size: 30px;
+	text-align: center;
+	color: #4A1A2C;
+}
+
+h2 {
+	font-size: 28px;
+	text-align: center;
+	color: #8E3557;
+}
+
+h3 {
+	font-size: 25px;
+	text-align: center;
+	color: #01B0F0;
+}
+
+body {
+	font-size: 16px;
+	text-align: center;
+	color: #01B0F0;
+	background-image: url(image/stardust.png);
+}
+
+ul li {
+	display: inline-block;
+}
+
+li {
+	list-style-type: none;
+}
+
+ul {
+	font-size: 20px;
+	text-align: center;
+	color: #8E3557;
+}
